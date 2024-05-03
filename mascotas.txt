@@ -1,0 +1,7 @@
+123,asd,asd,asd
+123,ads,asd,asd
+123,123,7,ASDFNGFGNHFGHNFGNFGNFGN
+123,asd,1,asd
+123,a,123,a
+44,das,7,asd
+77286241,Metodologia de sistemas,17,El estudiante realizo un excelente desempeño en el curso
